@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t augreg-inspect:latest .
+docker build -t augreg-inspect:latest -f docker/Dockerfile .
 
