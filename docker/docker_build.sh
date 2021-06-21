@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t colab-local-runtime:latest .
+docker build -t augreg-inspect:latest .
 
