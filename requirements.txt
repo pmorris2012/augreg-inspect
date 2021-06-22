@@ -11,3 +11,5 @@ ftfy
 regex
 click
 opencv-python
+ml_collections==0.1.0
+git+https://github.com/rwightman/pytorch-image-models@cleanup_xla_model_fixes #timm
